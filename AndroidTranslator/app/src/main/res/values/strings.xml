@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TranslAIT</string>
+    <string name="no_conn">No connection</string>
+    <string name="copy">Copy</string>
+    <string name="translate">Translate</string>
+    <string name="clear">Clear</string>
+</resources>
