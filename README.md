@@ -3,11 +3,11 @@
 ## Introduction
 
 > The purpose of this Android application is for users to translate scanned texts in real time. 
-
+>
 >Currently the app can translate any Latin based language to English.
-
+>
 >Core functionalities are implemented through the use of **Google Mobile Vision** and **Google Translate** API.
-
+>
 >Special thanks to Medium bloggers **Cansu Yeksan Aktas** and **Shalauddin Ahamad Shuza** for guidance on API integration.
 
 ## Installation
