@@ -14,5 +14,5 @@
 
 #### In addition to most up-to-date Android Studio, users must:
 > - Obtain Google Cloud API key
-> - Save credentials.json file to `\AndroidTranslator\app\src\main\res\raw`
+> - Save credentials.json file to `\AndroidTranslator\app\src\main\res\raw` and delete placeholder txt file
 > - Check for latest versions of gradle dependency in `build.gradle` file
